@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udp_client", "udp_client\udp_client.csproj", "{21568797-E23F-41C7-9B6E-F2A637B9FA02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udp_server", "udp_server\udp_server.csproj", "{307D56FC-363B-4DE4-A7F3-0E8C50720656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP", "UDP\UDP.csproj", "{009E73A0-70E4-4AC1-A3FF-B0983A642DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21568797-E23F-41C7-9B6E-F2A637B9FA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21568797-E23F-41C7-9B6E-F2A637B9FA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21568797-E23F-41C7-9B6E-F2A637B9FA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21568797-E23F-41C7-9B6E-F2A637B9FA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307D56FC-363B-4DE4-A7F3-0E8C50720656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307D56FC-363B-4DE4-A7F3-0E8C50720656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307D56FC-363B-4DE4-A7F3-0E8C50720656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307D56FC-363B-4DE4-A7F3-0E8C50720656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009E73A0-70E4-4AC1-A3FF-B0983A642DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009E73A0-70E4-4AC1-A3FF-B0983A642DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009E73A0-70E4-4AC1-A3FF-B0983A642DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009E73A0-70E4-4AC1-A3FF-B0983A642DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E46427-FC65-4CA9-AFD8-DF8E1469696A}
+	EndGlobalSection
+EndGlobal
